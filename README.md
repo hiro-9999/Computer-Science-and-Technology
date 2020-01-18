@@ -5,6 +5,9 @@ https://github.com/keithnull/TeachYourselfCS-CN
 https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
 -------------------------------------------------------------------
 
+## AI
+https://github.com/hiro-9999/AiLearning
+
 计算机科学中的数学：信息与智能时代的必修课
 
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/
