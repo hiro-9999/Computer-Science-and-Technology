@@ -1,6 +1,6 @@
 # Computer-Science-and-Technology
 https://github.com/ossu/computer-science
-
+https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
 ## 主要内容
    
 - [课程列表](#curriculum)
