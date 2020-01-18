@@ -4,13 +4,18 @@ https://teachyourselfcs.com/
 https://github.com/keithnull/TeachYourselfCS-CN
 https://github.com/keithnull/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
 -------------------------------------------------------------------
+
+计算机科学中的数学：信息与智能时代的必修课
+
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/readings/
 
 https://github.com/ossu/computer-science
 
 https://github.com/Maples7/cs-roadmap
 
-
+## AI
+>完备的 AI 学习路线，最详细的中英文资源整理
+https://zhuanlan.zhihu.com/p/64080846
 
 ## 主要内容
    
